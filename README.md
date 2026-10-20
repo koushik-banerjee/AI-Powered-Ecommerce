@@ -91,22 +91,6 @@ python app.py
 Fully extendable to integrate advanced ML models using the Python-based <code>ml-backend</code>.
 </p>
 
-<h2>🌐 Live Project Links</h2>
-<ul>
-  <li><strong>E-Commerce Webapp:</strong> <a href="https://e-commerce-website-orcin-xi.vercel.app" target="_blank">https://e-commerce-website-orcin-xi.vercel.app</a></li>
-  <li><strong>Demo Video:</strong> <a href="https://drive.google.com/file/d/1--Flz496hk7AUpJ4EkmsKchNNVBoa6xv/view?usp=sharing" target="_blank">Watch on Google Drive</a></li>
-</ul>
-
-<h2>🖥️ Frontend Demo</h2>
-<p align="center">
-  <img src="https://github.com/1810suman/E-Commerce-Website/blob/main/Screenshots/Home_page.png" alt="Surakshit Store Front Page" width="600">
-</p>
-
-<h2>💡 Author</h2>
-<p>
-  Developed with ❤️ by <strong>Suman Choudhury</strong>
-</p>
-
 <h2>🔗 Useful Links</h2>
 <ul>
   <li><a href="https://github.com/1810suman/E-Commerce-Website" target="_blank">GitHub Repository</a></li>
