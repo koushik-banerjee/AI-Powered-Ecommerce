@@ -93,7 +93,7 @@ Fully extendable to integrate advanced ML models using the Python-based <code>ml
 
 <h2>🔗 Useful Links</h2>
 <ul>
-  <li><a href="https://github.com/1810suman/E-Commerce-Website" target="_blank">GitHub Repository</a></li>
+  <li><a href="https://github.com/koushik-banerjee/AI-Powered-Ecommerce" target="_blank">GitHub Repository</a></li>
   <li><a href="https://dummyjson.com" target="_blank">DummyJSON API for Sample Products</a></li>
   <li><a href="https://auth0.com" target="_blank">Auth0 for Secure Authentication</a></li>
 </ul>
