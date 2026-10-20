@@ -1,4 +1,4 @@
-<h1 align="center">🛒 SURAKSHIT STORE - AI-Powered E-Commerce Platform</h1>
+<h1 align="center">🛒 AI-Powered E-Commerce Platform</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TechStack-MERN-blueviolet">
